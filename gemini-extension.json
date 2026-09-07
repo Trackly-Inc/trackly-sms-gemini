@@ -1,0 +1,12 @@
+{
+  "name": "trackly-sms",
+  "version": "0.1.0",
+  "description": "Connect Trackly SMS, check setup, and prepare text messages for human approval.",
+  "mcpServers": {
+    "trackly": {
+      "httpUrl": "https://mcp.tracklysms.com/mcp",
+      "timeout": 60000
+    }
+  },
+  "contextFileName": "GEMINI.md"
+}
